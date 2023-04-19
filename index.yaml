@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kevins-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-19T08:52:03.681975-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 1cc739b2441491f30eae41919798fb4e875906fa53ebd8fb8bbef64089d26aad
+    name: kevins-chart
+    type: application
+    urls:
+    - kevins-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-19T08:52:03.6809094-03:00"
